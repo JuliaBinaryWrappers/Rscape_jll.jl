@@ -1,0 +1,96 @@
+[[Rscape]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8dc2102692674c0175177882287d69550f4bcb2c"
+libc = "glibc"
+os = "linux"
+
+    [[Rscape.download]]
+    sha256 = "8b1a9c34ab782d4b536b330b6ed46dabe0697188e62e5a22658009a67638dc63"
+    url = "https://github.com/JuliaBinaryWrappers/Rscape_jll.jl/releases/download/Rscape-v2.0.0+0/Rscape.v2.0.0.i686-linux-gnu-cxx03.tar.gz"
+[[Rscape]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1b9720b84c77d6c040d9ccd8b9315ee82f20dca6"
+libc = "glibc"
+os = "linux"
+
+    [[Rscape.download]]
+    sha256 = "8e367f5783a24485b9292bbe6f54f3c4e91d8cbfb77ae3146f863d1b1df12c91"
+    url = "https://github.com/JuliaBinaryWrappers/Rscape_jll.jl/releases/download/Rscape-v2.0.0+0/Rscape.v2.0.0.i686-linux-gnu-cxx11.tar.gz"
+[[Rscape]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fc2c01d19be5f38d565dbff8ba1b26d2b712e9a9"
+libc = "musl"
+os = "linux"
+
+    [[Rscape.download]]
+    sha256 = "366c86c9a10405c6cf808e2dff8a00aa87a9c2539be180286492af4d3454c88f"
+    url = "https://github.com/JuliaBinaryWrappers/Rscape_jll.jl/releases/download/Rscape-v2.0.0+0/Rscape.v2.0.0.i686-linux-musl-cxx03.tar.gz"
+[[Rscape]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bae43300f40b3a0440910fd769486124fb40d9fd"
+libc = "musl"
+os = "linux"
+
+    [[Rscape.download]]
+    sha256 = "b34bbe4bc201cb8cfbc7ec0570ce14d92a4d82a07b827e83016ded520b25b144"
+    url = "https://github.com/JuliaBinaryWrappers/Rscape_jll.jl/releases/download/Rscape-v2.0.0+0/Rscape.v2.0.0.i686-linux-musl-cxx11.tar.gz"
+[[Rscape]]
+arch = "x86_64"
+git-tree-sha1 = "eb9f6ebd8c1aad78ad843945f393b08644d65916"
+os = "macos"
+
+    [[Rscape.download]]
+    sha256 = "8da085d6d65bbb9bb7dfce1f5f9e46ae1a7babac67f8abd29ca7183df843dddb"
+    url = "https://github.com/JuliaBinaryWrappers/Rscape_jll.jl/releases/download/Rscape-v2.0.0+0/Rscape.v2.0.0.x86_64-apple-darwin.tar.gz"
+[[Rscape]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "64b2355a5c0b6c51a62a78cd61310e93eaa84958"
+libc = "glibc"
+os = "linux"
+
+    [[Rscape.download]]
+    sha256 = "49c0eb682374de75ae403e8f9e525fdf8541095106e0713684bf48691d56d362"
+    url = "https://github.com/JuliaBinaryWrappers/Rscape_jll.jl/releases/download/Rscape-v2.0.0+0/Rscape.v2.0.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[Rscape]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fb89b88ab5cd5df57364412aecd85356e4f476c7"
+libc = "glibc"
+os = "linux"
+
+    [[Rscape.download]]
+    sha256 = "77377131f1f51e17f322621a515980ea718db5a6c39be212cbf97f8f984c442e"
+    url = "https://github.com/JuliaBinaryWrappers/Rscape_jll.jl/releases/download/Rscape-v2.0.0+0/Rscape.v2.0.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[Rscape]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fb96263be89afbb6960826b33cca6841934bc5fd"
+libc = "musl"
+os = "linux"
+
+    [[Rscape.download]]
+    sha256 = "09311470dd92e18de28609b5d1cea3e1febf1d6e16e2078d3000d173ffec17a6"
+    url = "https://github.com/JuliaBinaryWrappers/Rscape_jll.jl/releases/download/Rscape-v2.0.0+0/Rscape.v2.0.0.x86_64-linux-musl-cxx03.tar.gz"
+[[Rscape]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "809de634a4a303cfdf60bdfea4dc9245b2f96188"
+libc = "musl"
+os = "linux"
+
+    [[Rscape.download]]
+    sha256 = "6e42ea45ea006e1e2fb7346545c8a9020168f2ee233e9f1619466c4b495a1097"
+    url = "https://github.com/JuliaBinaryWrappers/Rscape_jll.jl/releases/download/Rscape-v2.0.0+0/Rscape.v2.0.0.x86_64-linux-musl-cxx11.tar.gz"
+[[Rscape]]
+arch = "x86_64"
+git-tree-sha1 = "7d0c5837cedb8662a020078ede14fe9183069e28"
+os = "freebsd"
+
+    [[Rscape.download]]
+    sha256 = "899a2e701b48bd310a0edff45a480d53b647da87d4345f3578b34e3953a9315f"
+    url = "https://github.com/JuliaBinaryWrappers/Rscape_jll.jl/releases/download/Rscape-v2.0.0+0/Rscape.v2.0.0.x86_64-unknown-freebsd.tar.gz"
